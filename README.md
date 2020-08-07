@@ -13,6 +13,7 @@ A aplicação possui em 3 serviços: <br>
 Método utilizado: POST <br>
 URI: http://localhost:3000/poi <br>
 Utilizando o serviço de cadastro de recurso, os seguintes POIs devem ser armazenados: 
+
     [
         {
             "nome": "Lanchonete",
@@ -50,7 +51,7 @@ Utilizando o serviço de cadastro de recurso, os seguintes POIs devem ser armaze
             "coordenadaY": 2
         }
     ]
-	
+
 <b> Listando todos os recursos cadastrados: </b><br>
 Método utilizado: GET <br>
 URI: http://localhost:3000/poi
